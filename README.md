@@ -4,4 +4,4 @@ Adventure Works, a fictional corporation commonly utilized as a sample database 
 
 PDF File: https://drive.google.com/file/d/1tQcIDVf6N8HLGTPmHFO3tr8d_61g0CRB/view?usp=drivesdk
 
-EXCEL File:https://docs.google.com/spreadsheets/d/10HWy6Ga6wIHcClk_WZG-hV3LZ3XEwJf1/edit?usp=drive_link&ouid=109754110999600189311&rtpof=true&sd=true
+EXCEL File: https://docs.google.com/spreadsheets/d/1X2lHAzYN0V1No4bpoLvwVDNN9_2BrfRE/edit?usp=drivesdk&ouid=117256848933232179455&rtpof=true&sd=true

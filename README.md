@@ -2,6 +2,6 @@
 
 Adventure Works, a fictional corporation commonly utilized as a sample database in Microsoft SQL Server and other Microsoft products, is tailored to exhibit the functionalities of Microsoft's data management and business intelligence tools. Within the Adventure Works database, one can find tables pertaining to products, clients, transactions, staff, and revenues, offering a valuable platform for developers, database administrators, and business analysts to experiment with and showcase diverse data-driven scenarios and solutions. Furthermore, Adventure Works finds frequent application in tutorials, training sessions, and workshops to elucidate practical database concepts and methodologies within a simulated business framework.
 
-PDF File: https://www.canva.com/design/DAF8BgyuzRQ/hl2nyCU94Mq9qvD7qMGeyQ/edit?utm_content=DAF8BgyuzRQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+PDF File: https://drive.google.com/file/d/1tQcIDVf6N8HLGTPmHFO3tr8d_61g0CRB/view?usp=drivesdk
 
 EXCEL File:https://docs.google.com/spreadsheets/d/10HWy6Ga6wIHcClk_WZG-hV3LZ3XEwJf1/edit?usp=drive_link&ouid=109754110999600189311&rtpof=true&sd=true
